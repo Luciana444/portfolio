@@ -1,7 +1,27 @@
-.box_proyect{
-    height: 100em;
+.all_info{
+    display: flex;
+    flex-direction: column;
+    height: auto;
     width: 50%;
+    margin-top: 5em;
 }
+
+
+.box_project, .box_technologies, .box_about_me{
+    width: 100%;
+    height: auto;
+}
+
+.box_technologies{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}   
+
+.about_me{
+    margin-bottom: 5em;
+    margin-left: 3.3em;
+}
+
 
 .proyect{
     height: auto;

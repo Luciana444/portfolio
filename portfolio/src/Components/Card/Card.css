@@ -9,6 +9,11 @@
     overflow: hidden;
 }
 
+.links {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 
 .content_image{
     width: 11em;
