@@ -47,12 +47,7 @@ const AllInfo = () =>{
                 </div>
                 <div className='box_about_me' id='about_me'>
                     <div className='about_me'>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero repudiandae eius eveniet laboriosam quisquam perspiciatis consectetur natus? Eveniet, hic earum, ad rem quo porro dolorum ullam sapiente repellendus consectetur magni!
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero repudiandae eius eveniet laboriosam quisquam perspiciatis consectetur natus? Eveniet, hic earum, ad rem quo porro dolorum ullam sapiente repellendus consectetur magni!
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero repudiandae eius eveniet laboriosam quisquam perspiciatis consectetur natus? Eveniet, hic earum, ad rem quo porro dolorum ullam sapiente repellendus consectetur magni!
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero repudiandae eius eveniet laboriosam quisquam perspiciatis consectetur natus? Eveniet, hic earum, ad rem quo porro dolorum ullam sapiente repellendus consectetur magni!
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero repudiandae eius eveniet laboriosam quisquam perspiciatis consectetur natus? Eveniet, hic earum, ad rem quo porro dolorum ullam sapiente repellendus consectetur magni!Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero repudiandae eius eveniet laboriosam quisquam perspiciatis consectetur natus? Eveniet, hic earum, ad rem quo porro dolorum ullam sapiente repellendus consectetur magni!Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero repudiandae eius eveniet laboriosam quisquam perspiciatis consectetur natus? Eveniet, hic earum, ad rem quo porro dolorum ullam sapiente repellendus consectetur magni!
-                        </p>
+                        <p>Hi, I’m Luciana Zabaleta, a 20-year-old passionate developer currently finishing my degree in TUDAI at the Universidad Nacional del Centro de Buenos Aires (UNICEN) in Tandil. Throughout my journey, I have worked on several projects that have strengthened my skills and allowed me to explore technologies like PHP, Java, JavaScript, HTML, CSS, React, and more. I thrive in teamwork environments, where I am known for being responsible, punctual, and committed to meeting deadlines. My dedication to delivering high-quality results drives me to continuously learn and improve, staying updated with the latest advancements in technology.</p>
                     </div>
                 </div>
             </div>

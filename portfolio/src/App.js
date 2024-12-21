@@ -1,6 +1,6 @@
 import './App.css';
-import AllInfo from './Components/AllInfo/AllInfo';
-import Nav from './Components/Nav/Nav';
+import AllInfo from './Components/AllInfo/AllInfo.js';
+import Nav from './Components/Nav/Nav.jsx';
 
 function App() {
   return (

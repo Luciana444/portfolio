@@ -45,6 +45,17 @@
     text-decoration: none;
 }
 
+.nav ul li a.active {
+    font-weight: bold;  
+    color: rgb(6, 255, 189);
+}
+
+.nav ul li a.active .line {
+    width: 3.5em;        
+    opacity: 1;          
+    background-color: rgb(6, 255, 189);  
+}
+
 .social_media{
     display: flex;
     justify-content: space-between;
@@ -70,5 +81,3 @@
     height: 2em;
     width: 2em;
 }
-
-

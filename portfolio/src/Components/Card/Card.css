@@ -9,6 +9,14 @@
     overflow: hidden;
 }
 
+.box_technologies .card {
+    width: 90%;
+}
+
+.box_about_me .about_me p{
+    width: 90%;
+}
+
 .links {
     text-decoration: none;
     color: #ffffff;
